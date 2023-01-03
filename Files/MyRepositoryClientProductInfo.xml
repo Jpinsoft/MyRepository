@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<ProductInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductName>MyRepositoryClient</ProductName>
+  <UpgradeCode>C391CA88-7997-49E2-B911-5FA563DBBAF2</UpgradeCode>
+  <CurrentVersion>1.4.0.0</CurrentVersion>
+  <ReleaseDate>2023-01-03T15:00:18.9232911+01:00</ReleaseDate>
+  <DownloadPage>https://github.com/Jpinsoft/MyRepository/releases/tag/2019-11-v13-client</DownloadPage>
+  <DirectDownloadURL />
+</ProductInfo>
