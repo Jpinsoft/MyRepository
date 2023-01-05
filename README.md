@@ -9,16 +9,17 @@ MyRepository is a freeware solution designed for managing and sharing photo albu
 
  ## MyRepository Features
 
-Versioning & history
+- Web Server
+- Automatic backup & Auto cleanup of the backup files
+- Versioning & history
 - Voice comments
 - Image correction
-- Custom attributes
-- Custom attributes validation
+- Custom attributes & validation
 - Offline mode
 - Parameterized search
 - Full-text indexing
 - Edit multiple attributes
 - Export to CSV
+- Server activity history
 - Client extensibility
 - Server extensibility
-- Web Server
