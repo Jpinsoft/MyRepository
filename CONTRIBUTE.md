@@ -8,4 +8,10 @@ Once you have completed the translation file, please e-mail it to me.
 MyRepository may be used free of charge, but the development and support of this software requires a lot of time.
 With your donation, you can ensure future development and support of MyRepository project.
 
+<p align="center">
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9FE78455946SE">
+    <img alt="PayPal" src="https://user-images.githubusercontent.com/28184960/201537622-b2c7bdfe-4559-4b9f-a89f-81877bce1323.gif">
+  </a>
+</p>
+
 Thank you for your interest in contributing to MyRepository project!
