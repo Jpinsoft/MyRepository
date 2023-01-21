@@ -3,7 +3,7 @@ MyRepository is a freeware solution designed for managing and sharing photo albu
 
 ## Getting Started with MyRepository:
 
-1. <a href="https://github.com/Jpinsoft/MyRepository/releases/download/2023-01-v13-server/MyRepositoryServerSetup-v13.msi">Download</a> and install latest release of MyRepositoryServer
+1. <a href="https://github.com/Jpinsoft/MyRepository/releases/download/2023-01-v131-server/MyRepositoryServerSetup-v131.msi">Download</a> and install latest release of MyRepositoryServer
 2. <a href="https://github.com/Jpinsoft/MyRepository/releases/download/2023-01-v14-client/MyRepositoryClientSetup-v14.msi">Download</a> and install latest release of MyRepositoryClient
 3. Run MyRepositoryClient and connect to MyRepositoryServer
 
